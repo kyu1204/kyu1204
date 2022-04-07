@@ -13,15 +13,20 @@
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=Ceph&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>&nbsp
