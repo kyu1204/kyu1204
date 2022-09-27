@@ -42,5 +42,5 @@
 
 <p align="center">
 <a href="https://opgc.me/#/users/kyu1204" target="_blank"><img src="https://api.opgc.me/githubs/users/kyu1204/tag/?theme=basic" /></a>
-[![kyu1204's github stats](https://github-readme-stats.vercel.app/api?username=kyu1204&show_icons=true&theme=dracula)](https://github.com/kyu1204)
 </p>
+[![kyu1204's github stats](https://github-readme-stats.vercel.app/api?username=kyu1204&show_icons=true&theme=dracula)](https://github.com/kyu1204)
