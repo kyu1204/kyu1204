@@ -43,7 +43,7 @@
 <br>
 <br>
 
+[![kyu1204's github stats](https://github-readme-stats.vercel.app/api?username=kyu1204&show_icons=true&theme=dracula)](https://github.com/kyu1204)
 <p>
-<img src="https://camo.githubusercontent.com/5b6d515d871ebc0a4a0c214a4ad5949a55608846697617fb8607f11a74124bd0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b7975313230342673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="kyu1204's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kyu1204&amp;show_icons=true&amp;theme=dracula" style="max-width: 80%;">
 <a href="https://opgc.me/#/users/kyu1204" target="_blank"><img src="https://api.opgc.me/githubs/users/kyu1204/tag/?theme=basic" /></a>
 </p>
