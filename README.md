@@ -39,9 +39,10 @@
 
 <h3 align="center">Status 🚀</h3>
 <p align="center"> My condition and what I do after work </p>
-![kyu1204's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyu1204&count_private=true)
 <p align="center">
   <a href="https://opgc.me/#/users/kyu1204" target="_blank"><img src="https://api.opgc.me/githubs/users/kyu1204/tag/?theme=basic" /></a>
+  <br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/37a0a21b1a00805080e4736b735fd1df8b7673ab8d4ad70d4193ce3081db4bda/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d6b79753132303426636f756e745f707269766174653d74727565"><img src="https://camo.githubusercontent.com/37a0a21b1a00805080e4736b735fd1df8b7673ab8d4ad70d4193ce3081db4bda/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d6b79753132303426636f756e745f707269766174653d74727565" alt="kyu1204's GitHub stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyu1204&amp;count_private=true" style="max-width: 100%;"></a>
 </p>
 
 <br>
