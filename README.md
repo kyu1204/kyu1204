@@ -32,4 +32,5 @@
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
 </p>
