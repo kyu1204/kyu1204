@@ -24,12 +24,6 @@ jobs:
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_languages: yes
           
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v2
