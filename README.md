@@ -34,3 +34,7 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
 </p>
+
+---
+
+![Metrics](/github-metrics.svg)
