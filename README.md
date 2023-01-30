@@ -38,6 +38,10 @@
 ---
 
 <p align="center">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
+<p align="center">
   <picture>
     <img src="/github-metrics.svg" alt="Metrics" width=600>
   </picture>
