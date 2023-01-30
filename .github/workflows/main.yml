@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-        if: ${{ false }}
         with:
           # Your GitHub token
           token: ${{ secrets.METRIC_TOKEN }}
