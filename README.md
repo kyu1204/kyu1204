@@ -35,7 +35,12 @@
   <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
 </p>
 
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea45309876f74787b0c2a37e899388462651498d798abd6d1ea0df8c5eba2cb7/68747470733a2f2f67682d686974732e6e6f6d6164636f646572732e776f726b6572732e6465762f766965773f757365726e616d653d6b797531323034"><img src="https://camo.githubusercontent.com/ea45309876f74787b0c2a37e899388462651498d798abd6d1ea0df8c5eba2cb7/68747470733a2f2f67682d686974732e6e6f6d6164636f646572732e776f726b6572732e6465762f766965773f757365726e616d653d6b797531323034" alt="hits" data-canonical-src="https://gh-hits.nomadcoders.workers.dev/view?username=kyu1204" style="max-width: 100%;"></a>
+</p>
+
 ---
+
 ![](https://raw.githubusercontent.com/bossm0n5t3r/bossm0n5t3r/output/github-snake.svg)
 
 <p align="center">
