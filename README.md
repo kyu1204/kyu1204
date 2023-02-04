@@ -1,4 +1,3 @@
-[![Setup GitHub Profile](https://github.com/kyu1204/kyu1204/actions/workflows/main.yml/badge.svg)](https://github.com/kyu1204/kyu1204/actions/workflows/main.yml)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=MINT&fontSize=90&fontColor=000000)
 
 <h3 align="center">Skils 💻</h3>
