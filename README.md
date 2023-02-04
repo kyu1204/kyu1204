@@ -41,7 +41,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/bossm0n5t3r/bossm0n5t3r/output/github-snake.svg)
+![](https://raw.githubusercontent.com/kyu1204/kyu1204/output/github-snake.svg)
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
