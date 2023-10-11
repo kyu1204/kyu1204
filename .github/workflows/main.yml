@@ -26,7 +26,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: kyu1204
           outputs: |
