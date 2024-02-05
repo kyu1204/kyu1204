@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Tailwindcss-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-3E6E93?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
